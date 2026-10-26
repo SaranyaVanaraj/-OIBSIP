@@ -101,7 +101,6 @@ The findings can help identify patterns and areas for further investigation, sup
 ## Repository Contents
 - `EDA_Retail_Sales.ipynb` – Jupyter Notebook containing the analysis, code, visualizations, and observations.
 - `retail_sales.csv` – Retail dataset used for the analysis.
-- `screenshots/` – Relevant screenshots of analysis outputs, if included.
 
 ## How to Run the Project
 1. Install Python and Jupyter Notebook.
