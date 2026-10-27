@@ -98,14 +98,6 @@ The Android App Market Analysis project explores Google Play Store data to under
 - **Sentiment Analysis:** Used TextBlob to classify translated user reviews as positive, negative, or neutral.
 - **Developer Insights:** Examined category competition, ratings, and user sentiment to identify possible areas for improvement.
 
-**Technologies Used**
-
-Python, Pandas, NumPy, Matplotlib, Seaborn, TextBlob, Jupyter Notebook, and Plotly for optional interactive visualizations.
-
-**Dataset Source**
-
-[Google Play Store Apps Dataset – Kaggle](https://www.kaggle.com/datasets/lava18/google-play-store-apps)
-
 **Outcome**
 
 This project demonstrates how data analysis and sentiment analysis can be used to explore the Android app market, understand user feedback, compare application categories, and identify potential opportunities for developers.
