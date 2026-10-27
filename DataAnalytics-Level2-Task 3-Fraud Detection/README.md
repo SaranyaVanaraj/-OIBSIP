@@ -79,4 +79,4 @@ The project highlights the importance of evaluating models with metrics such as 
 
 ## Repository Contents
 - `Fraud_Detection_Analysis.ipynb` – Jupyter Notebook containing the complete analysis, visualizations, model training, and evaluation.
-- `creditcard.csv` – Dataset containing credit card transaction details used for the analysis.
+- 'Dataset' – Contains dataset_link.txt, which provides the source link for downloading the credit card fraud dataset.
