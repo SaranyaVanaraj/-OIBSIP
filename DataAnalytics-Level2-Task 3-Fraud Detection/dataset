@@ -1,0 +1,7 @@
+Credit Card Fraud Detection Dataset
+
+Source: Kaggle
+
+Dataset Link: https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
+
+Note: Download the dataset from Kaggle and place the `creditcard.csv` file in the same folder as the Jupyter Notebook before running the code.
