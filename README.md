@@ -63,7 +63,7 @@ The Customer Segmentation project focuses on grouping customers according to rel
 
 This project demonstrates how data analysis and customer segmentation techniques can help businesses understand their customers, identify distinct groups, and make more informed marketing and business decisions.
 
-### Level 1 – Task 3: Fraud Detection
+### Level 2 – Task 3: Fraud Detection
 
 **Overview**
 
