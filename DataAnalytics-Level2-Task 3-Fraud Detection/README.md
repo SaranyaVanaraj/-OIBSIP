@@ -77,6 +77,4 @@ This project demonstrates how exploratory data analysis and machine learning can
 
 The project highlights the importance of evaluating models with metrics such as precision, recall, and F1-score when working with highly imbalanced datasets.
 
-## Repository Contents
-- `Fraud_Detection_Analysis.ipynb` – Jupyter Notebook containing the complete analysis, visualizations, model training, and evaluation.
-- 'Dataset' – Contains dataset_link.txt, which provides the source link for downloading the credit card fraud dataset.
+
