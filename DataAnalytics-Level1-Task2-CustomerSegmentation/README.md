@@ -183,19 +183,9 @@ Customer segmentation can help businesses:
 - Allocate marketing resources more effectively.
 - Support data-driven customer relationship management.
 
-## 10. Project Structure
-
-```text
-OIBSIP/
-└── DataAnalytics-L1-Task2-CustomerSegmentation/
-    ├── README.md
-    ├── Customer_Segmentation_Analysis.ipynb
-    └── marketing_campaign.csv
 ```
 
-The notebook and dataset filenames should match the files actually present in the repository. Include the dataset only if permitted by the submission guidelines.
-
-## 11. How to Run the Project
+## 10. How to Run the Project
 
 1. Clone or download the repository.
 2. Install Python and Jupyter Notebook.
@@ -215,7 +205,7 @@ The notebook and dataset filenames should match the files actually present in th
 6. Open `Customer_Segmentation_Analysis.ipynb`.
 7. Run the notebook cells sequentially to reproduce the analysis, charts, and clustering results.
 
-## 12. Limitations
+## 11. Limitations
 
 - The dataset contains aggregated customer-level information rather than individual transaction records.
 - Frequency is estimated using the available purchase-channel counts.
@@ -224,13 +214,8 @@ The notebook and dataset filenames should match the files actually present in th
 - K-Means results depend on feature selection, preprocessing, and the chosen number of clusters.
 - The resulting segments describe patterns in the available dataset and may not represent every customer population.
 
-## 13. Conclusion
-
-This project demonstrates how customer purchasing data can be analysed using Python and machine learning techniques. Through data cleaning, exploratory analysis, feature engineering, standardisation, and K-Means clustering, customers are grouped according to similarities in their purchasing behaviour.
-
-The resulting clusters can help businesses understand customer differences and develop more targeted marketing and retention strategies. The project also provides practical experience in data analysis, visualisation, and unsupervised machine learning.
-
-## 14. Skills Gained
+  
+## 12. Skills Gained
 
 - Data cleaning and preprocessing.
 - Exploratory Data Analysis.
@@ -244,14 +229,12 @@ The resulting clusters can help businesses understand customer differences and d
 - Python-based data analysis.
 - GitHub repository management.
 
-## 15. Internship Details
+## 13. Conclusion
 
-**Organisation:** Oasis Infobyte
+This project demonstrates how customer purchasing data can be analysed using Python and machine learning techniques. Through data cleaning, exploratory analysis, feature engineering, standardisation, and K-Means clustering, customers are grouped according to similarities in their purchasing behaviour.
 
-**Domain:** Data Analytics
+The resulting clusters can help businesses understand customer differences and develop more targeted marketing and retention strategies. The project also provides practical experience in data analysis, visualisation, and unsupervised machine learning.
 
-**Level:** Level 1
 
-**Task:** Task 2 — Customer Segmentation Analysis
 
-**Repository:** OIBSIP
+
