@@ -103,5 +103,3 @@ This project demonstrates the use of data analysis, data cleaning, visualization
 
 ---
 
-**Internship:** Oasis Infobyte (OIBSIP)  
-**Project:** Level 2 – Task 4: Android App Market Analysis
