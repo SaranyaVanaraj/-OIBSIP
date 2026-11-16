@@ -205,6 +205,8 @@ Customer segmentation can help businesses:
 6. Open `Customer_Segmentation_Analysis.ipynb`.
 7. Run the notebook cells sequentially to reproduce the analysis, charts, and clustering results.
 
+...
+
 ## 11. Limitations
 
 - The dataset contains aggregated customer-level information rather than individual transaction records.
