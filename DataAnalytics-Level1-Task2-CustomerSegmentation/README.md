@@ -183,7 +183,6 @@ Customer segmentation can help businesses:
 - Allocate marketing resources more effectively.
 - Support data-driven customer relationship management.
 
-```
 
 ## 10. How to Run the Project
 
@@ -205,7 +204,6 @@ Customer segmentation can help businesses:
 6. Open `Customer_Segmentation_Analysis.ipynb`.
 7. Run the notebook cells sequentially to reproduce the analysis, charts, and clustering results.
 
-...
 
 ## 11. Limitations
 
