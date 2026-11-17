@@ -1,8 +1,5 @@
 # Credit Card Fraud Detection
 
-## Oasis Infobyte – Data Analytics Internship
-**Level 1 | Task 3**
-
 ## Project Overview
 This project focuses on detecting fraudulent credit card transactions using exploratory data analysis and machine learning techniques. The analysis explores transaction patterns, addresses class imbalance, and compares classification models to identify potentially fraudulent transactions.
 
